@@ -1,0 +1,17 @@
+{
+  "name": "nl.faraway-thegame.uprocbox.base",
+  "version": "1.0.0",
+  "description": "Base module for the UProcBox project",
+  "displayName": "UProcBox Base Module",
+  "author": {
+    "name": "Thomas Goossen",
+    "url": "https://faraway-thegame.nl/"
+  },
+  "keywords": [
+    "Procedural",
+    "Random",
+    "Planet",
+    "Terrain"
+  ],
+  "type": "library"
+}
