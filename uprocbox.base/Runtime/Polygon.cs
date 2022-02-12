@@ -5,7 +5,7 @@ using UnityEngine;
 namespace Lolkilee.UProcBox.Base
 {
     /// <summary>
-    /// Storage class for storing multiple triangles
+    /// Storage class for storing multiple triangles (usefull for things like hexagons)
     /// </summary>
     public class Polygon
     {
